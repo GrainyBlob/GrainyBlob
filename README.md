@@ -1,6 +1,3 @@
-## Hello.
-#### // TODO: Ultimate profile page.
+![Banner](./assets/banner.png)
 
-TL;DR: I'm a hobby developer that touches grass sometimes. I just write code for "fun" and to waste time. I have just "goof around and find out" experience with languages, namely C, C++, Java, Kotlin, Python and JS.
-
-- I'm currently working on orion, a windows shell replacement. (it might never be finished and I'll add it to my pile of unfinished projects
+> <span style="color:#8dab5c; background-color:#0000003f;text-decoration:none;">+ Currently working on <a href="https://github.com/GrainyBlob/nyx">nyx - A desktop shell replacement for Windows.</a></span>
